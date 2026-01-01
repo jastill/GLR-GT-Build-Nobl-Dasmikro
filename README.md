@@ -21,7 +21,8 @@ Conflicting YouTube videos on what needs to be done to pair the Receiver with th
 From the [AliExpress page](https://www.aliexpress.us/item/2255800978678014.html?spm=a2g0o.order_list.order_list_main.5.7a0c1802bImUJv&gatewayAdapt=glo2usa#nav-specification):
 
 NB4 can use firmware version 1.0.105
-*NB4+ can use firware verison 1.0.108*
+
+**NB4+ can use firware verison 1.0.108**
  
 If your firmware version is higher, please downgrade. If your firmware are very early version, please upgrade. .After upgrading/downgrading the firmware of the remote controller, you still need to force the receiver to update to the corresponding firmware version via the remote controller. For detailed steps, you can refer to the two video links below.
  
