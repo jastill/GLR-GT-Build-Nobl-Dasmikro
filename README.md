@@ -34,6 +34,17 @@ Video 2：[https://youtu.be/BUy9wt94fSk](https://youtu.be/BUy9wt94fSk)
 
 ## Blinky Mode
 
+Blinky mode is for the ESC not the receiver.
+
+<pre>
+Is Blink Mode set on an MC-1 ESC by default?
+ 
+No, blinky mode is not on by default on the Reflex Racing MC-1 ESC. The default setting is typically a "stock mode" preset with some level of boost/timing advance, intended for general use, not sanctioned "blinky" racing classes. 
+"Blinky mode," which disables all electronic timing advance (Boost and Turbo), is a specific, selectable setting or pre-loaded program memory on the ESC. To activate it for sanctioned racing, you must use a program box to access the settings menu and switch it on, which causes the ESC's red or blue LED to blink to indicate it is in zero-timing mode. 
+The user manual and community discussions indicate this setting is explicitly changed by the user. The ESC has a two-program memory feature that allows users to save and quickly switch between a "stock" (modified) setup and a "blinky" (zero-timing) setup using the program card, which would be unnecessary if blinky was the default. 
+</pre>
+
+
 
 
 DasMikro 2.4GHz Compatible AFHDS3  Micro 4CH Receiver for FLYSKY Noble NB4 DM Racing Car Parts
