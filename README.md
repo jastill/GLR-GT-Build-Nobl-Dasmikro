@@ -31,6 +31,8 @@ If your firmware version is higher, please downgrade. If your firmware are very 
 Video 1：[https://youtu.be/5ONohKqZCzI?si=ARBbPKE97UFNiAOu](https://youtu.be/5ONohKqZCzI?si=ARBbPKE97UFNiAOu)
 Video 2：[https://youtu.be/BUy9wt94fSk](https://youtu.be/BUy9wt94fSk)
 
+## Blinky Mode
+
 
 
 DasMikro 2.4GHz Compatible AFHDS3  Micro 4CH Receiver for FLYSKY Noble NB4 DM Racing Car Parts
