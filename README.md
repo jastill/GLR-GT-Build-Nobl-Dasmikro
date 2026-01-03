@@ -8,7 +8,7 @@ Build tracking for Noble, GLE GT and Dasmikro receiver
 |GLR GT||||
 |Recevier||Dasmikro on [Ali Express](https://www.aliexpress.us/item/2255800978678014.html?spm=a2g0o.order_list.order_list_main.5.7a0c1802bImUJv&gatewayAdapt=glo2usa#nav-specification)||
 |FLYSKY Noble NB4+||[NB4](https://www.flysky-cn.com/nb4)||
-|ESC||||
+|ESC||[MC-1](https://supergdrift.com/products/mc1-30a-sensored-brushless-electronic-speed-controller-1-28-mini-z-micro-reflex-racing-rre023)||
 
 NB4+ [Downloads](https://www.flysky-cn.com/noble-nb4plus-downloads)
 
@@ -44,8 +44,11 @@ No, blinky mode is not on by default on the Reflex Racing MC-1 ESC. The default 
 The user manual and community discussions indicate this setting is explicitly changed by the user. The ESC has a two-program memory feature that allows users to save and quickly switch between a "stock" (modified) setup and a "blinky" (zero-timing) setup using the program card, which would be unnecessary if blinky was the default. 
 </pre>
 
+## ESC and Programmer
 
+MC1 Multi Function Program Card (for RRE023) (1-28 / Mini-Z) Micro [Reflex Racing] RRE024
 
+## Receiver
 
 DasMikro 2.4GHz Compatible AFHDS3  Micro 4CH Receiver for FLYSKY Noble NB4 DM Racing Car Parts
 
